@@ -2,8 +2,6 @@
 
 ![](RackMultipart20230713-1-s17mt6_html_eb2b339f2f4225f4.png)
 
-Wo Wei Lin, Zach Osman, Chloe Lam, William Yao. Special thanks to: Jivko Sinapov, Ron Lasser, Dave Lillethun
-
 ###
 
 
