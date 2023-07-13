@@ -54,14 +54,17 @@ NOTE: The controller is not set up due to previous issues with the robot.
 
 [https://github.com/hello-robot/stretch\_ros/blob/master/stretch\_navigation/README.md](https://github.com/hello-robot/stretch_ros/blob/master/stretch_navigation/README.md)
 
+**Navigation startup with 4th floor map**
+roslaunch stretch_navigation navigation.launch
+
 **Official 3D Navigation Stack:**
 
 [https://github.com/hello-robot/stretch\_ros/tree/master/stretch\_funmap](https://github.com/hello-robot/stretch_ros/tree/master/stretch_funmap)
 
 Setting up funmap:
 
-1. Ssh in the hello robot: ssh hello-robot@10.0.60.32
-2. On Robot: export ROS\_IP = 10.0.60.32
+1. Ssh in the hello robot: ssh hello-robot@10.0.60.32 [example IP]
+2. On Robot: export ROS\_IP = 10.0.60.32 [example IP]
   1. Do on every terminal that is a robot!
 3. On PC: export ROS\_IP = "ip of PC"
 4. On PC: export ROS\_MASTER\_URI = [http://10.0.60.32:11311](http://10.0.60.32:11311/)
